@@ -7,8 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayoubMah/cpAyoub/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2058-concatenation-of-array](https://github.com/ayoubMah/cpAyoub/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayoubMah/cpAyoub/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/ayoubMah/cpAyoub/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
